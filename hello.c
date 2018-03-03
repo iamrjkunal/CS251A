@@ -1,5 +1,4 @@
 #include<stdio.h>
-void microkernel_sendmsg(char *);
 
 void main(){
 	printf("Helloworld!\n");
